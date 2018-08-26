@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 
-gem "sinatra"
-gem "rdiscount"
+gem "sinatra", "~>2.0"
+gem "rdiscount", "~>2.2"
